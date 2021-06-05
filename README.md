@@ -8,6 +8,9 @@ The preferred operating system is Linux, the front-end uses GTK and the back-end
 
 ## Installation
 Step1 : git clone https://github.com/RakshithRAcharya/RL_Maze_Generator_and-Solver.git
+
 Step2 : sudo apt install python3-gi python3-gi-cairo gir1. 2-gtk-3.0.
+
 Step3 : cd RL_Maze_Generator_and-Solver/
+
 Step4 : python3 Maze_Solve.py
